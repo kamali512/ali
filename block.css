@@ -1,0 +1,51 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Here is one of many  CSS rules you will need... */
+#one {
+    border:5px solid red;
+    margin: 5px;
+    padding: 5px;
+    width: 25%;
+    position: fixed;
+    top: 100px;    
+}
+
+#two {
+   border: 5px solid green;
+    margin: 5px;
+    padding: 5px;
+    width: 25%;
+    position: fixed;
+    top: 100px;
+    left: 40em;
+   
+   
+}
+#three {
+    border:5px solid blue;
+    margin: 5px;
+    padding: 5px;
+     width: 25%;
+     position: fixed;
+    top: 500px;
+   }
+
+#four {
+    border:5px solid yellow;
+    margin: 5px;
+    padding: 5px;
+     width: 25%;
+    position: fixed;
+    top: 500px;
+    left: 40em;
+}
+#link{
+	text-align:center;
+}
+a{
+	color: white;
+	 background-color: #3663cd;
+	 text-decoration: none;
+}	
